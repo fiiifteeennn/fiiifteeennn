@@ -1,5 +1,3 @@
-# Hi there 👋
-
 I'm Pablo Rodríguez, an IT student from Spain.
 
 * 🎓 Studying Administration of Computer Systems and Networks
