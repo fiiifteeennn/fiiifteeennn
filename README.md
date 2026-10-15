@@ -39,6 +39,4 @@ I'm an IT student from Spain focused on systems administration, networking, and 
 - Google Cloud Computing course
 - CCNA coursework: Introduction to Networks; Switching, Routing, and Wireless Essentials
 
-### 📫 Contact
 
-- Email: [pablobrx3@gmail.com](mailto:pablobrx3@gmail.com)
