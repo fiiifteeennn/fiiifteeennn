@@ -1,42 +1,90 @@
-# Hi, I'm Pablo Rodríguez 👋
+<div align="center">
 
-I'm an IT student from Spain focused on systems administration, networking, and technical support. I enjoy troubleshooting, keeping infrastructure running, and finding practical ways to automate everyday tasks.
+  <!-- Título fijo y subtítulo animado estilo consola en color coral/rojo -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E05561&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Pablo+Rodr%C3%ADguez" alt="Pablo Rodríguez" />
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=25&pause=1000&color=E05561&center=true&vCenter=true&width=650&height=50&lines=Always+learning+%26+automating...;SysAdmin+%26+Network+Engineer;Infrastructure+%26+Cybersecurity" alt="Typing SVG" />
+  </a>
 
-- 🎓 Studying Administration of Computer Systems and Networks
-- 💻 Interested in system administration, networking, and cloud computing
-- 🌱 Currently learning PowerShell, Windows Server, and Active Directory
-- 🔧 Hands-on experience with hardware maintenance, technical support, and server upkeep
-- 📚 Learning Java, JavaScript, HTML, CSS, and MySQL
-- ⚙️ Exploring scripting and automation to improve IT workflows
+</div>
 
-### 🛠️ Technologies & Tools
+---
 
-<p>
-  <img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
-  <img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
+Hello! I'm Pablo, an IT Systems & Network Administrator from Spain. During these last years I've been working and studying in different areas like enterprise server infrastructure, network engineering, task automation, and web development. I love troubleshooting complex environments and finding practical ways to automate everyday workflows. I hope you enjoy my profile!
+
+<p align="right">
+  <i>"Automate what is repetitive, master what is complex."</i> — SysAdmin Mindset
 </p>
 
-### 💼 Experience
+> 💻 Tools, languages, and technologies that I like to work with.
 
-- **Hermanas Hospitalarias** — IT Systems and Network Administrator · Mar–Jul 2026  
-  Supported user and access administration, database maintenance, equipment troubleshooting, and task automation.
-- **Grupo AISA** — Network and Technical Maintenance Assistant · Feb–Mar 2025  
-  Helped maintain servers and equipment and manage users with Active Directory.
-- **Ecomputer S. L.** — IT Technician (internship) · Mar–Jun 2024  
-  Supported school equipment and networks, server maintenance, Active Directory, and remote troubleshooting.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,powershell,linux,bash,html,css,js,react,java,mysql,git,gcp,cloudflare,vscode&perline=14" alt="Tech Icons" />
+</div>
 
-### 🎓 Education
+<br>
 
-- Higher Vocational Training in Administration of Computer Systems and Networks — in progress
-- Intermediate Vocational Training in Microcomputer Systems and Networks
-- Google Cloud Computing course
-- CCNA coursework: Introduction to Networks; Switching, Routing, and Wireless Essentials
+<details>
+<summary><b>📂 Click here to expand my full technical stack & professional experience</b></summary>
+<br>
 
+```yaml
+Systems & Infrastructure:
+  - Windows Server, Active Directory (AD DS), Group Policy Objects (GPO)
+  - IIS, DFSR, Sysprep, Windows Roaming Profiles, SMB & NTFS Permissions
+  - Linux Administration, Users/Groups Management & Hardware Maintenance
 
+Networking & Security:
+  - Cisco CCNA, Cisco Packet Tracer, Routing & Switching, VLANs
+  - TCP/IP, IPv4/IPv6, DNS, DHCP, Digital Certificates (PKI), SSL/TLS & HTTPS
+
+Scripting, Development & Cloud:
+  - PowerShell Automation, Bash, Java (OOP), JavaScript, React, HTML5, CSS3
+  - SQL, MySQL, Google Cloud, Git, Cloudflare & AI Tools
+
+Experience:
+  - Hermanas Hospitalarias | IT Systems & Network Administrator (Mar 2026 – Jul 2026)
+  - Grupo AISA             | Network & Maintenance Assistant (Feb 2025 – Mar 2025)
+  - Ecomputer S.L.         | IT Technician Internship (Mar 2024 – Jun 2024)
+```
+</details>
+
+<details>
+<summary><b>🎓 Click here to check out my academic background</b></summary>
+<br>
+
+```yaml
+Current Studies:
+  - Master's in Network Engineering, Systems Architecture & DevOps (Madrid)
+
+Completed Education:
+  - Higher Technician in Administration of Computer Systems and Networks (CFGS ASIR)
+  - Technician in Microcomputer Systems and Networks (CFGM SMR)
+```
+</details>
+
+<br>
+
+> 🚀 You can take a look to know more about me!
+
+<div align="center">
+  <!-- ⚠️ Reemplaza los enlaces href con tus URLs reales -->
+  <a href="https://tu-portfolio.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/42/E05561/domain.png" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/42/E05561/linkedin.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TU_USUARIO" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/42/E05561/github.png" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.icons8.com/ios-filled/42/E05561/gmail-new.png" alt="Email" />
+  </a>
+</div>
