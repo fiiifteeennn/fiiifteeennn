@@ -76,15 +76,12 @@ Completed Education:
     <img src="https://img.icons8.com/ios-filled/42/E05561/domain.png" alt="Website" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-rodriguez-cuesta-101735298/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/42/E05561/linkedin.png" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/TU_USUARIO" target="_blank">
+  <a href="https://github.com/fiiifteeennn" target="_blank">
     <img src="https://img.icons8.com/ios-filled/42/E05561/github.png" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.icons8.com/ios-filled/42/E05561/gmail-new.png" alt="Email" />
-  </a>
+  
 </div>
